@@ -1,4 +1,4 @@
-<img src="![WhatsApp Image 2022-07-22 at 17 45 28](https://user-images.githubusercontent.com/90539076/180780382-afe20f20-f7c5-4fb6-810b-f1f6c15cf094.jpeg)" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="![WhatsApp Image 2022-07-22 at 17 45 28](https://user-images.githubusercontent.com/90539076/180780731-6c6deff0-bd68-4447-9ed7-ed4a29ae4b70.jpeg)" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
