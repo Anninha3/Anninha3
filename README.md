@@ -1,4 +1,4 @@
-<img src="![image](https://user-images.githubusercontent.com/90539076/180781024-5446cfba-45eb-4e7c-8c49-d0fdeea60346.png)" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://pbs.twimg.com/media/FYR-DmUXEAYgWzY.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
